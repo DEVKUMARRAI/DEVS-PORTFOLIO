@@ -29,8 +29,12 @@ header{
 .header_socials::after{
     content:"";
     width: 1px;
-    height: 2rem;
+    height: 3rem;
     background: var(--color-primary);
+}
+
+.header_socials a{
+    font-size: 1.5rem;
 }
 
 .me{
