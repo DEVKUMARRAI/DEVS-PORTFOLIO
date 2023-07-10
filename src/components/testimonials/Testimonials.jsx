@@ -1,11 +1,69 @@
-import React from 'react'
-import './testimonials.css'
+import React from "react";
+import "./testimonials.css";
+import AV1 from "../../assets/avatar1.jpg";
+import AV2 from "../../assets/avatar2.jpg";
+import AV3 from "../../assets/avatar3.jpg";
+import AV4 from "../../assets/avatar4.jpg";
+
+import { Navigation, Pagination, Scrollbar } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/navigation";
+
+const details = [
+  {
+    id: 1,
+    image: AV1,
+    name: "Dev",
+    review: "Khud Ki Kya Taarif Karu Ab...",
+  },
+  {
+    id: 2,
+    image: AV2,
+    name: "Rudra",
+    review: "Mast Website Banata Hai Ladka",
+  },
+  {
+    id: 3,
+    image: AV3,
+    name: "Shivansh",
+    review: "Papa Mere Best Full Stack Developer Hai",
+  },
+  {
+    id: 4,
+    image: AV4,
+    name: "Riya",
+    review: "Mera Bf Best Hai",
+  },
+];
+
 const Testimonials = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <section id="testimonials">
+      <h5>Reviews From Clients</h5>
+      <h2>Testimonials</h2>
 
-export default Testimonials
+      <Swiper className="container testimonials_container"
+      modules={[ Pagination,Navigation]}
+      spaceBetween={40}
+      slidesPerView={1}
+      
+      pagination={{ clickable: true }}
+     
+     
+      >
+        {details.map(({ id, image, name, review }) => (
+          <SwiperSlide key={id} className="testimonial">
+            <div className="client_avatar">
+              <img src={image} alt={image} />
+            </div>
+            <h5 className="client_name">{name}</h5>
+            <small className="client_review">{review}</small>
+          </SwiperSlide>
+        ))}
+      </Swiper>
+    </section>
+  );
+};
+
+export default Testimonials;
