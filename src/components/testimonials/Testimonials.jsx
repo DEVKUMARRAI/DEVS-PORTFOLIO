@@ -14,26 +14,26 @@ const details = [
   {
     id: 1,
     image: AV1,
-    name: "Dev",
-    review: "Khud Ki Kya Taarif Karu Ab...",
+    name: "Mark",
+    review: "Amazing Developer..",
   },
   {
     id: 2,
     image: AV2,
     name: "Rudra",
-    review: "Mast Website Banata Hai Ladka",
+    review: "Created Awesome Website For me",
   },
   {
     id: 3,
     image: AV3,
     name: "Shivansh",
-    review: "Papa Mere Best Full Stack Developer Hai",
+    review: "Great Developer",
   },
   {
     id: 4,
     image: AV4,
     name: "Riya",
-    review: "Mera Bf Best Hai",
+    review: "Thanks For The Amazing Websites",
   },
 ];
 
