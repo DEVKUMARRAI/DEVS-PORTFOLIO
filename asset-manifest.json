@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio_Website/static/css/main.f97fb059.css",
-    "main.js": "/My-Portfolio_Website/static/js/main.d8ab2418.js",
+    "main.js": "/My-Portfolio_Website/static/js/main.bbdc1c09.js",
     "static/media/me-about-2.jpg": "/My-Portfolio_Website/static/media/me-about-2.0dbe23b09a21d735eda8.jpg",
     "static/media/DEVKUMARRAI_BTECH(CS).pdf": "/My-Portfolio_Website/static/media/DEVKUMARRAI_BTECH(CS).ce9d9ff40dbb60916674.pdf",
     "static/media/portfolio5.png": "/My-Portfolio_Website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -13,10 +13,10 @@
     "static/media/me.png": "/My-Portfolio_Website/static/media/me.ecb0a730a41f57e2c189.png",
     "index.html": "/My-Portfolio_Website/index.html",
     "main.f97fb059.css.map": "/My-Portfolio_Website/static/css/main.f97fb059.css.map",
-    "main.d8ab2418.js.map": "/My-Portfolio_Website/static/js/main.d8ab2418.js.map"
+    "main.bbdc1c09.js.map": "/My-Portfolio_Website/static/js/main.bbdc1c09.js.map"
   },
   "entrypoints": [
     "static/css/main.f97fb059.css",
-    "static/js/main.d8ab2418.js"
+    "static/js/main.bbdc1c09.js"
   ]
 }
