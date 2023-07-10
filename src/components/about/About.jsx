@@ -32,16 +32,18 @@ const about = () => {
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
-              <small>20+ Projetcs</small>
+              <small>40+ Projetcs</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
-            sapiente delectus nihil excepturi assumenda atque qui repudiandae
-            vero quia saepe est porro, architecto fugit eius exercitationem unde
-            nulla optio eum nostrum temporibus pariatur obcaecati?
+            Hello! I'm Dev, a passionate and experienced full stack
+            developer. With a strong background in both front-end and back-end
+            technologies, I strive to create dynamic and user-friendly web
+            applications.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>

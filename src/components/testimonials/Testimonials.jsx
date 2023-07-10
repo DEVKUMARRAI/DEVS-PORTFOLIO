@@ -14,25 +14,25 @@ const details = [
   {
     id: 1,
     image: AV1,
-    name: "Mark",
+    name: "Lisa",
     review: "Amazing Developer..",
   },
   {
     id: 2,
     image: AV2,
-    name: "Rudra",
+    name: "Andrew",
     review: "Created Awesome Website For me",
   },
   {
     id: 3,
     image: AV3,
-    name: "Shivansh",
+    name: "Mark",
     review: "Great Developer",
   },
   {
     id: 4,
     image: AV4,
-    name: "Riya",
+    name: "Rehana",
     review: "Thanks For The Amazing Websites",
   },
 ];
