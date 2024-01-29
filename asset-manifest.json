@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/My-Portfolio_Website/static/css/main.f97fb059.css",
-    "main.js": "/My-Portfolio_Website/static/js/main.44925d76.js",
-    "static/media/me-about-2.jpg": "/My-Portfolio_Website/static/media/me-about-2.0dbe23b09a21d735eda8.jpg",
-    "static/media/DEVKUMARRAI_BTECH(CS).pdf": "/My-Portfolio_Website/static/media/DEVKUMARRAI_BTECH(CS).ce9d9ff40dbb60916674.pdf",
-    "static/media/portfolio5.png": "/My-Portfolio_Website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/My-Portfolio_Website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/My-Portfolio_Website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/My-Portfolio_Website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/My-Portfolio_Website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/My-Portfolio_Website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/me.png": "/My-Portfolio_Website/static/media/me.ecb0a730a41f57e2c189.png",
-    "index.html": "/My-Portfolio_Website/index.html",
-    "main.f97fb059.css.map": "/My-Portfolio_Website/static/css/main.f97fb059.css.map",
-    "main.44925d76.js.map": "/My-Portfolio_Website/static/js/main.44925d76.js.map"
+    "main.css": "/DEVS-PORTFOLIO/static/css/main.f97fb059.css",
+    "main.js": "/DEVS-PORTFOLIO/static/js/main.828211b6.js",
+    "static/media/me-about-2.jpg": "/DEVS-PORTFOLIO/static/media/me-about-2.0dbe23b09a21d735eda8.jpg",
+    "static/media/portfolio5.png": "/DEVS-PORTFOLIO/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/DEVS-PORTFOLIO/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/DEVS-PORTFOLIO/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/DEVS-PORTFOLIO/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/DEVS-PORTFOLIO/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/DEVS-PORTFOLIO/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/me.png": "/DEVS-PORTFOLIO/static/media/me.ecb0a730a41f57e2c189.png",
+    "static/media/Resume.pdf": "/DEVS-PORTFOLIO/static/media/Resume.f7b767656d1689dae6df.pdf",
+    "index.html": "/DEVS-PORTFOLIO/index.html",
+    "main.f97fb059.css.map": "/DEVS-PORTFOLIO/static/css/main.f97fb059.css.map",
+    "main.828211b6.js.map": "/DEVS-PORTFOLIO/static/js/main.828211b6.js.map"
   },
   "entrypoints": [
     "static/css/main.f97fb059.css",
-    "static/js/main.44925d76.js"
+    "static/js/main.828211b6.js"
   ]
 }
