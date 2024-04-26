@@ -1,14 +1,14 @@
 import React from "react";
 import "./experience.css";
-import { ImHtmlFive } from "react-icons/im";
 import { SiCss3, SiNodedotjs } from "react-icons/si";
+import { TbBrandNextjs } from "react-icons/tb";
+import { SiTailwindcss } from "react-icons/si";
 import { SiJavascript } from "react-icons/si";
+import { FaHtml5, FaWordpress } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import { FaBootstrap } from "react-icons/fa";
-import { IoLogoNodejs } from "react-icons/io";
 import { SiMongodb } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
-import { FaGithub } from "react-icons/fa";
 import { SiPhp } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
 const Experience = () => {
@@ -21,62 +21,90 @@ const Experience = () => {
         <div className="experience_frontend">
           <h3>Frontend Development</h3>
           <div className="experience_content">
+
             <article className="experience_details">
-              <ImHtmlFive className='experience_details-icon'/>
+              <FaHtml5 className='experience_details-icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>HTML5</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
 
             <article className="experience_details">
-              <SiCss3 className='experience_details-icon'/>
+              <SiCss3 className='experience_details-icon' />
               <div>
-                <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>CSS3</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
 
             <article className="experience_details">
-              <SiJavascript className='experience_details-icon'/>
+              <SiJavascript className='experience_details-icon' />
               <div>
                 <h4>JavaScript</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
 
+
             <article className="experience_details">
-              <FaReact className='experience_details-icon'/>
+              <FaReact className='experience_details-icon' />
               <div>
                 <h4>React</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <TbBrandNextjs className='experience_details-icon' />
+              <div>
+                <h4>Next.js</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
 
             <article className="experience_details">
-              <FaBootstrap className='experience_details-icon'/>
+              <SiTailwindcss className='experience_details-icon' />
+              <div>
+                <h4>Tailwind CSS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <FaBootstrap className='experience_details-icon' />
               <div>
                 <h4>Bootstrap</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+
             <article className="experience_details">
-              <FaGithub className='experience_details-icon'/>
+              <FaWordpress className='experience_details-icon' />
               <div>
-                <h4>Git/Github</h4>
+                <h4>WordPress</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+
           </div>
         </div>
         <div className="experience_backend">
           <h3>Backend Development</h3>
           <div className="experience_content">
             <article className="experience_details">
-              <SiNodedotjs className='experience_details-icon'/>
+              <SiNodedotjs className='experience_details-icon' />
               <div>
-                <h4>NodeJS</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Node.js</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <SiExpress className='experience_details-icon' />
+              <div>
+                <h4>Express.js</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
 
@@ -89,17 +117,17 @@ const Experience = () => {
             </article>
 
             <article className="experience_details">
-              <SiPhp className='experience_details-icon'/>
+              <SiPhp className='experience_details-icon' />
               <div>
                 <h4>Php</h4>
-                <small className="text-light">Good</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
-              <SiMysql className='experience_details-icon'/>
+              <SiMysql className='experience_details-icon' />
               <div>
                 <h4>MySql</h4>
-                <small className="text-light">Good</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
