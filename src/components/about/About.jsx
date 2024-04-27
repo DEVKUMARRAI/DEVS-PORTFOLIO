@@ -26,7 +26,7 @@ const about = () => {
             <article className="about_card">
               <FiUsers className="about_icon" />
               <h5>Clients</h5>
-              <small>20+ Clients Served Till Date</small>
+              <small>50+ Clients Served Till Date</small>
             </article>
 
             <article className="about_card">
@@ -35,12 +35,11 @@ const about = () => {
               <small>40+ Projetcs</small>
             </article>
           </div>
-          <p>
-            Hello! I'm Dev, a passionate and experienced full stack
-            developer. With a strong background in both front-end and back-end
-            technologies, I strive to create dynamic and user-friendly web
-            applications.
-          </p>
+          <p>🚀 Hey there! I'm Dev, a full stack developer with a passion for crafting exceptional digital experiences.</p>
+          <p>🌐 Master of All Trades: From front-end finesse to back-end brilliance, I thrive on the dynamic interplay between creativity and code.</p>
+          <p>💡 Innovator at Heart: I'm not just a coder; I'm an innovator. Constantly pushing the boundaries of what's possible with cutting-edge tools and frameworks.</p>
+          <p>🛠️ Bridging the Gap Seamlessly navigating between front-end aesthetics and back-end functionality to bring ideas to life with elegance and precision.</p>
+          <p>🌟 Let's Connect! Ready to build something extraordinary together? Let's collaborate, innovate, and create digital masterpieces that leave a lasting impression.</p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>
